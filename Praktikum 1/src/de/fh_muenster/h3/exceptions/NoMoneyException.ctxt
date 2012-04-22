@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NoMoneyException()
+comment1.params=message
+comment1.target=NoMoneyException(java.lang.String)
+comment2.params=e
+comment2.target=NoMoneyException(java.lang.Throwable)
+numComments=3

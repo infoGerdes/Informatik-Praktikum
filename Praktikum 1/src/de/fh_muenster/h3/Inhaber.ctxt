@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=vorname\ nachname\ adresse
+comment0.target=Inhaber(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getVorname()
+comment1.text=\n\ @return\ the\ vorname\n
+comment2.params=vorname
+comment2.target=void\ setVorname(java.lang.String)
+comment2.text=\n\ @param\ vorname\n\ \ \ \ \ \ \ \ \ \ \ \ the\ vorname\ to\ set\n
+comment3.params=
+comment3.target=java.lang.String\ getNachname()
+comment3.text=\n\ @return\ the\ nachname\n
+comment4.params=nachname
+comment4.target=void\ setNachname(java.lang.String)
+comment4.text=\n\ @param\ nachname\n\ \ \ \ \ \ \ \ \ \ \ \ the\ nachname\ to\ set\n
+comment5.params=
+comment5.target=java.lang.String\ getAdresse()
+comment5.text=\n\ @return\ the\ adresse\n
+comment6.params=adresse
+comment6.target=void\ setAdresse(java.lang.String)
+comment6.text=\n\ @param\ adresse\n\ \ \ \ \ \ \ \ \ \ \ \ the\ adresse\ to\ set\n
+numComments=7
