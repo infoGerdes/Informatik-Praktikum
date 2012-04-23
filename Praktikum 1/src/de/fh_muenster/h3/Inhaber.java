@@ -1,5 +1,12 @@
 package de.fh_muenster.h3;
 
+/**
+ * 
+ * @author Emanuel Schulze Pröbsting
+ * 
+ * Klasse, welche den Inhaber repräsentiert
+ *
+ */
 public class Inhaber {
 	public String vorname;
 	public String nachname;

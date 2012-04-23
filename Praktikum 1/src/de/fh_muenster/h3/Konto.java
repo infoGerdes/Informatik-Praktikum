@@ -16,7 +16,7 @@ public class Konto {
 	 * Betrag, welcher dem Freund Ÿberwiesen wird, wenn ein Freund geworben
 	 * wird.
 	 */
-	private final int FREUDSCHAFTSWERBUNG = 60;
+	private final int FREUDSCHAFTSWERBUNG = 50;
 
 	/**
 	 * Kontonummer des Kontos
